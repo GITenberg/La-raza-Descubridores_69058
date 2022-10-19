@@ -1,0 +1,26 @@
+_repo: La-raza-Descubridores_69058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sorel, Julián
+    gutenberg_agent_id: '55076'
+    url: http://www.gutenberg.org/2009/agents/55076
+description: ''
+gutenberg_issued: '2022-09-28'
+identifiers:
+  gutenberg: '69058'
+language: es
+pgterms:marc905: 20070407114042sorel
+pgterms:marc906: '1920'
+pgterms:marc907: ES
+production_note: Adrian Mastronardi, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: Spain :Rafael Caro Raggio,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La raza: Descubridores'
+url: http://www.gutenberg.org/ebooks/69058
